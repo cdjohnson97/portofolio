@@ -1,5 +1,4 @@
 
-
 const Contact = () => {
   return (
     <section className="contact" data-page="contact">
@@ -36,7 +35,7 @@ const Contact = () => {
 
           <button className="form-btn" type="submit" data-form-btn>
             <ion-icon name="paper-plane"></ion-icon>
-            <span>Je vous attends </span>
+            <span>Au plaisir de vous lire  </span>
           </button>
 
         </form>
