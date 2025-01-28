@@ -3,7 +3,7 @@
     {
       "id": 2,
       "title": "Learneo Gestion de formation",
-      "category": "Web development",
+      "category": "developpement web",
       "image": "images/project-2.png"
     },
    
@@ -18,7 +18,7 @@
     {
       "id": 7,
       "title": "Summary",
-      "category": "Web development",
+      "category": "developpement web", 
       "image": "images/project-7.png"
     },
     {

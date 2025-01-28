@@ -5,6 +5,8 @@ import './index.css'
 
 import {
   createBrowserRouter,
+  createHashRouter,
+  HashRouter,
   RouterProvider,
 } from "react-router-dom";
 import Portfolio from './pages/Portfolio/Portfolio.jsx';
@@ -13,7 +15,7 @@ import Resume from './pages/Resume/Resume.jsx';
 import About from './pages/About/About.jsx';
 import Contact from './pages/Contact/Contact.jsx';
 
-const router = createBrowserRouter([
+const router = HashRouter([
   {
     path: "/",
     element: <App/>,
