@@ -23,10 +23,12 @@ const Contact = () => {
 
         <h3 className="h3 form-title">Prise de contact</h3>
 
-        <form action="#" className="form" data-form>
+        
+
+        <form action="#" className="form" data-form netlify>
 
           <div className="input-wrapper">
-            <input type="text" name="fullname" className="form-input" placeholder="Nom complet" required data-form-input />
+            <input type="text" name="fullname" className="form-input" placeholder="Votre nom complet" required data-form-input />
 
             <input type="email" name="email" className="form-input" placeholder="Address mail" required data-form-input />
           </div>
