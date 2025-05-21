@@ -22,6 +22,12 @@ const Navbar = () => {
         </NavLink>
       </li>
 
+      <li className="navbar-item">
+        <NavLink to="/veille_technologique" className="navbar-link" data-nav-link>
+          Veille technologique
+        </NavLink>
+      </li>
+
       
 
       <li className="navbar-item">
