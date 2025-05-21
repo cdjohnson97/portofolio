@@ -24,7 +24,7 @@ const Navbar = () => {
 
       <li className="navbar-item">
         <NavLink to="/veille_technologique" className="navbar-link" data-nav-link>
-          Veille technologique
+          Veille tech
         </NavLink>
       </li>
 
