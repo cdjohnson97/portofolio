@@ -209,17 +209,33 @@ const Portfolio = () => {
                   alt={selectedProject.title}
                   style={{ 
                     width: '100%',
-                    height: '400px',
+                    maxWidth: '100%',
+                    height: 'auto',
+                    maxHeight: '400px',
                     objectFit: 'cover',
                     objectPosition: 'center',
                     imageRendering: 'crisp-edges',
                     msInterpolationMode: 'nearest-neighbor',
                     display: 'block',
-                    maxWidth: '100%',
-                
-                    minHeight: '400px'
                   }} 
                 />
+                <style>{`
+                  @media (max-width: 600px) {
+                    .popup-content {
+                      width: 98vw !important;
+                      max-width: 98vw !important;
+                      padding: 0 !important;
+                    }
+                    .popup-image-container img {
+                      width: 100% !important;
+                      height: auto !important;
+                      max-height: 200px !important;
+                      min-height: 120px !important;
+                      object-fit: cover !important;
+                      display: block !important;
+                    }
+                  }
+                `}</style>
               </div>
               
               <div style={{ padding: '30px' }}>

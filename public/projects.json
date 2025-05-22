@@ -3,7 +3,7 @@
 		"id": 1,
 		"title": "France Foot",
 		"category": "Ecole",
-		"description": " enabled via WebSockets, ensuring that all team members stay informed of changes instantly. The backend is developed with Spring Boot, offering a secure REST API, user authentication, and role-based access control. Data is persisted in a PostgreSQL database, with advanced querying for analytics and reporting. The application supports file attachments, notifications, and calendar integration. Unit and integration tests are implemented using Jasmine and JUnit, ensuring code reliability. The project is containerized with Docker for easy deployment and scalability. CI/CD pipelines are configured with GitHub Actions, automating testing and deployment processes. The app is optimized for performance and accessibility, providing a seamless experience on both desktop and mobile devices. Comprehensive documentation and API references are included for developers and end-users.",
+		"description": " The project is Docker for easy deployment and scalability. CI/CD pipelines are configured with GitHub Actions, automating testing and deployment processes. The app is optimized for performance and accessibility, providing a seamless experience on both desktop and mobile devices. Comprehensive documentation and API references are included for developers and end-users.",
 		"image": "images/FFF.jpeg",
 		"links": {
 			"live": "https://tasks.chance-portfolio.com",

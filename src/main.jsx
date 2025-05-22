@@ -14,6 +14,7 @@ import Resume from './pages/Resume/Resume.jsx';
 import About from './pages/About/About.jsx';
 import Contact from './pages/Contact/Contact.jsx';
 import ProjectPage from './pages/Portfolio/ProjectPage.jsx'
+import Veille_technologique from './pages/Veille_tech/Veille_technologique.jsx';
 
 const router = createBrowserRouter([
   {
@@ -40,7 +41,7 @@ const router = createBrowserRouter([
       },
       {
         path: "/veille_technologique",
-        element: <Portfolio/>,
+        element: <Veille_technologique/>,
       },
       {
         path: "blogs",
