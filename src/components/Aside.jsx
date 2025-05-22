@@ -6,9 +6,10 @@ const Aside = () => {
         <div className="sidebar-info">
           <figure className="avatar-box">
             <img
-              src={"/images/chance_1.png"}
+              src={"/images/profile_1.JPG"}
               alt="Richard hanrick"
               width="80"
+              style={{ transform: "scale(1.4)" }}
             />
           </figure>
 
@@ -70,7 +71,7 @@ const Aside = () => {
               <div className="contact-info">
                 <p className="contact-title">Location</p>
 
-                <address>11, Rte d'Aparjon Breuillet, France</address>
+                <address>Île-de-France, France</address>
               </div>
             </li>
           </ul>
