@@ -47,7 +47,7 @@ const Resume = () => {
         </div>
         <ol className="timeline-list">
           <TimelineItem
-            title="Alternace Dévéloppeur web fulstack"
+            title="Alternance Dévéloppeur web fulstack"
             date="2024 — Present"
             description="En tant que développeur fullstack, ma mission consiste à créer une application web complète, en gérant à la fois l'interface utilisateur (frontend en React/Vue.js) et le serveur
              (backend en Node.js/Python avec base de données),
