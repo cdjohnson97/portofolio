@@ -19,8 +19,39 @@ const servicesData = [
     icon: "/images/icon-app.svg",
     title: "Applications mobiles",
     description: "Dévopement des applications mobiles iOS et Android en utilisant les derniers outils."
+  },
+  {
+    icon: "/images/icon-app.svg",
+    title: "Mes stacks",
+    description: (
+      <>
+        
+        <div style={{ display: "flex", flexWrap: "wrap", gap: "8px", marginTop: "8px" }}>
+          {[
+            "techLogos/React.svg",
+            "techLogos/Angular.svg",
+            "techLogos/Tailwind CSS.svg",
+            "techLogos/Visual Studio Code (VS Code).svg",
+            "techLogos/GitHub.svg", 
+            "techLogos/Node.js.svg",
+            "techLogos/Express.svg",
+            "techLogos/Java.svg",
+            "techLogos/Spring.svg",
+            "techLogos/MySQL.svg",
+            "techLogos/AWS.svg",
+            "techLogos/Docker.svg",
+          ].map((img, idx) => (
+            <img
+              key={idx}
+              src={img}
+              alt={img.split("/").pop().replace(".svg", "")}
+              style={{ width: 32, height: 32, objectFit: "contain" }}
+            />
+          ))}
+        </div>
+      </>
+    ),
   }
-  
 ];
 
 
@@ -71,37 +102,29 @@ const About = () => {
 
     {/* <!--
       - service
-    --> */}
+        --> */}
 
     <section className="service">
 
-      <h3 className="h3 service-title">Ce que je fais</h3>
+      <h3 className="h3 service-title"></h3>
 
       <ul className="service-list">
 
-      {servicesData.map((service, index) => (
+        {servicesData.map((service, index) => (
+          <li key={index}>
             <Service
-              key={index}
               icon={service.icon}
               title={service.title}
               description={service.description}
             />
-          ))}
-
+          </li>
+        ))}
       </ul>
 
     </section>
 
 
-    {/* <!--
-      - testimonials
-    --> */}
-
-  
-
-    {/* <!--
-      - clients
-    --> */}
+   
 
     
   </article>
