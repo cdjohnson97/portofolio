@@ -6,8 +6,8 @@
 		"description": "France Foot est une application web dédiée à la gestion et au suivi des compétitions de football en France. Elle permet aux utilisateurs de consulter les calendriers, résultats, classements et statistiques des équipes et joueurs. L'interface est moderne et responsive, offrant une expérience fluide sur tous les appareils. Le projet intègre des fonctionnalités avancées comme la gestion des notifications, l'inscription aux matchs, et l'accès à des analyses détaillées pour les passionnés de football.",
 		"image": "images/FFF.jpeg",
 		"links": {
-			"live": "https://tasks.chance-portfolio.com",
-			"github": "https://github.com/chancedarlon/task-manager"
+			"live": "https://francejo.netlify.app/connexion",
+			"github": "https://github.com/cdjohnson97/france_foot"
 		},
 		"technologies": [
 			"Angular",
