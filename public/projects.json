@@ -123,7 +123,8 @@
 			"techLogos/HTML5.svg",
 			"techLogos/Sass.svg",
 			"techLogos/Visual Studio Code (VS Code).svg",
-			"techLogos/GitHub.svg"
+			"techLogos/GitHub.svg",
+			"techLogos/JavaScript.svg"
 		],
 		"colors": "#cbafec"
 	},
@@ -136,8 +137,8 @@
 		"description": "A robust task management application designed for teams and individuals to organize, track, and collaborate on tasks efficiently. The frontend is built with Angular, providing a dynamic and responsive user interface. Users can create projects, assign tasks, set deadlines, and monitor progress through interactive dashboards. Real-time updates are enabled via WebSockets, ensuring that all team members stay informed of changes instantly. The backend is developed with Spring Boot, offering a secure REST API, user authentication, and role-based access control. Data is persisted in a PostgreSQL database, with advanced querying for analytics and reporting. The application supports file attachments, notifications, and calendar integration. Unit and integration tests are implemented using Jasmine and JUnit, ensuring code reliability. The project is containerized with Docker for easy deployment and scalability. CI/CD pipelines are configured with GitHub Actions, automating testing and deployment processes. The app is optimized for performance and accessibility, providing a seamless experience on both desktop and mobile devices. Comprehensive documentation and API references are included for developers and end-users.",
 		"image": "images/Mastering_home.PNG",
 		"links": {
-			"live": "https://tasks.chance-portfolio.com",
-			"github": "https://github.com/chancedarlon/task-manager"
+			"live": "https://francejo.netlify.app/connexion",
+			"github": "https://github.com/cdjohnson97/france_foot"
 		},
 		"technologies": [
 			"Angular",
@@ -157,5 +158,36 @@
 			"techLogos/GitHub.svg"
 		],
 		"colors": "#a29a9a"
+	},
+
+	{
+		"id": 6,
+		"title": "FFF Jeux olympique",
+		"category": "Ecole",
+		"description": "A robust task management application designed for teams and individuals to organize, track, and collaborate on tasks efficiently. The frontend is built with Angular, providing a dynamic and responsive user interface. Users can create projects, assign tasks, set deadlines, and monitor progress through interactive dashboards. Real-time updates are enabled via WebSockets, ensuring that all team members stay informed of changes instantly. The backend is developed with Spring Boot, offering a secure REST API, user authentication, and role-based access control. Data is persisted in a PostgreSQL database, with advanced querying for analytics and reporting. The application supports file attachments, notifications, and calendar integration. Unit and integration tests are implemented using Jasmine and JUnit, ensuring code reliability. The project is containerized with Docker for easy deployment and scalability. CI/CD pipelines are configured with GitHub Actions, automating testing and deployment processes. The app is optimized for performance and accessibility, providing a seamless experience on both desktop and mobile devices. Comprehensive documentation and API references are included for developers and end-users.",
+		"image": "images/Jeux_olymp.jpeg",
+		"links": {
+			"live": "https://francejo.netlify.app/",
+			"github": "https://github.com/cdjohnson97/france_foot"
+		},
+		"technologies": [
+			"Angular",
+			"Spring Boot",
+			"PostgreSQL",
+			"Docker",
+			"WebSockets",
+			"GitHub Actions"
+		],
+		"techImages": [
+			
+			"techLogos/React.svg",
+            "techLogos/Vite.js.svg",
+            "techLogos/Tailwind CSS.svg",
+            "techLogos/Visual Studio Code (VS Code).svg",
+            "techLogos/GitHub.svg",
+			"techLogos/Node.js.svg",
+			"techLogos/Express.svg"
+		],
+		"colors": "#6b6ae7"
 	}
 ]
