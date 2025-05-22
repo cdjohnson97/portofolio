@@ -13,8 +13,9 @@ import Blogs from './pages/Blogs/Blogs.jsx';
 import Resume from './pages/Resume/Resume.jsx';
 import About from './pages/About/About.jsx';
 import Contact from './pages/Contact/Contact.jsx';
+import ProjectPage from './pages/Portfolio/ProjectPage.jsx'
 
-const router = createHashRouter([
+const router = createBrowserRouter([
   {
     path: "/",
     element: <App/>,
@@ -30,8 +31,14 @@ const router = createHashRouter([
       {
         path: "/portfolio",
         element: <Portfolio/>,
+        children: [
+          {
+            path: "/portfolio/:projectId",
+            element: <ProjectPage/>,
+          },
+        ],
       },
-       {
+      {
         path: "/veille_technologique",
         element: <Portfolio/>,
       },
@@ -46,7 +53,6 @@ const router = createHashRouter([
     ]
   },
 ]);
-
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <RouterProvider router={router} />

@@ -1,32 +1,161 @@
 [
-   
     {
-      "id": 2,
-      "title": "Learneo Gestion de formation",
-      "category": "developpement web",
-      "image": "images/project-2.png"
-    },
-   
+		"id": 1,
+		"title": "France Foot",
+		"category": "Ecole",
+		"description": " enabled via WebSockets, ensuring that all team members stay informed of changes instantly. The backend is developed with Spring Boot, offering a secure REST API, user authentication, and role-based access control. Data is persisted in a PostgreSQL database, with advanced querying for analytics and reporting. The application supports file attachments, notifications, and calendar integration. Unit and integration tests are implemented using Jasmine and JUnit, ensuring code reliability. The project is containerized with Docker for easy deployment and scalability. CI/CD pipelines are configured with GitHub Actions, automating testing and deployment processes. The app is optimized for performance and accessibility, providing a seamless experience on both desktop and mobile devices. Comprehensive documentation and API references are included for developers and end-users.",
+		"image": "images/FFF.jpeg",
+		"links": {
+			"live": "https://tasks.chance-portfolio.com",
+			"github": "https://github.com/chancedarlon/task-manager"
+		},
+		"technologies": [
+			"Angular",
+			"Spring Boot",
+			"PostgreSQL",
+			"Docker",
+			"WebSockets",
+			"GitHub Actions"
+		],
+		"techImages": [
+			
+			"techLogos/React.svg",
+            "techLogos/Vite.js.svg",
+            "techLogos/Tailwind CSS.svg",
+            "techLogos/Visual Studio Code (VS Code).svg",
+            "techLogos/GitHub.svg",
+			"techLogos/Node.js.svg",
+			"techLogos/Express.svg"
+
+			
+		],
+
+		"colors": "#625aab"
+	},
+	{
+
+        "id": 2,
+		"title":"Transtam logistic",
+		"category": "Stage",
+		"description": "A robust task management application designed for teams and individuals to organize, track, and collaborate on tasks efficiently. The frontend is built with Angular, providing a dynamic and responsive user interface. Users can create projects, assign tasks, set deadlines, and monitor progress through interactive dashboards. Real-time updates are enabled via WebSockets, ensuring that all team members stay informed of changes instantly. The backend is developed with Spring Boot, offering a secure REST API, user authentication, and role-based access control. Data is persisted in a PostgreSQL database, with advanced querying for analytics and reporting. The application supports file attachments, notifications, and calendar integration. Unit and integration tests are implemented using Jasmine and JUnit, ensuring code reliability. The project is containerized with Docker for easy deployment and scalability. CI/CD pipelines are configured with GitHub Actions, automating testing and deployment processes. The app is optimized for performance and accessibility, providing a seamless experience on both desktop and mobile devices. Comprehensive documentation and API references are included for developers and end-users.",
+		"image": "images/Transtam.jpeg",
+		"links": {
+			"live": "https://tasks.chance-portfolio.com",
+			"github": "https://github.com/chancedarlon/task-manager"
+		},
+		"technologies": [
+			"Angular",
+			"Spring Boot",
+			"PostgreSQL",
+			"Docker",
+			"WebSockets",
+			"GitHub Actions"
+		],
+		"techImages": [
+			"techLogos/React.svg",
+			"techLogos/HTML5.svg",
+			"techLogos/Node.js.svg",
+			"techLogos/Express.svg",
+			"techLogos/Vite.js.svg",
+			"techLogos/Tailwind CSS.svg",
+			"techLogos/Sass.svg",
+			"techLogos/Visual Studio Code (VS Code).svg",
+			"techLogos/MySQL.svg",
+			"techLogos/GitHub.svg"
+		],
+		"colors": "#ad54e1"
+	},
+	{
+		"id": 3,
+		"title": "Mastering",
+		"category": "Ecole",
+		"description": "A robust task management application designed for teams and individuals to organize, track, and collaborate on tasks efficiently. The frontend is built with Angular, providing a dynamic and responsive user interface. Users can create projects, assign tasks, set deadlines, and monitor progress through interactive dashboards. Real-time updates are enabled via WebSockets, ensuring that all team members stay informed of changes instantly. The backend is developed with Spring Boot, offering a secure REST API, user authentication, and role-based access control. Data is persisted in a PostgreSQL database, with advanced querying for analytics and reporting. The application supports file attachments, notifications, and calendar integration. Unit and integration tests are implemented using Jasmine and JUnit, ensuring code reliability. The project is containerized with Docker for easy deployment and scalability. CI/CD pipelines are configured with GitHub Actions, automating testing and deployment processes. The app is optimized for performance and accessibility, providing a seamless experience on both desktop and mobile devices. Comprehensive documentation and API references are included for developers and end-users.",
+		"image": "images/Mastering.jpeg",
+		"links": {
+			"live": "#",
+			"github": "https://github.com/fenMel/MasteringWeb"
+		},
+		"technologies": [
+			"Angular",
+			"Spring Boot",
+			"PostgreSQL",
+			"Docker",
+			"WebSockets",
+			"GitHub Actions"
+		],
+		"techImages": [
+			"techLogos/Java.svg",
+            "techLogos/Spring.svg",
+			"techLogos/Angular.svg",
+            "techLogos/Sass.svg",
+            "techLogos/IntelliJ IDEA.svg",
+            "techLogos/GitHub.svg",
+			"techLogos/Docker.svg",
+			"techLogos/AWS.svg",
+			"techLogos/MySQL.svg",
+			"techLogos/Postman.svg"
+
+			
+		],
+		"colors": "#354963"
+	},
+	{
+		"id": 4,
+		"title": "Learneo Calendrier dynamique",
+		"category": "Alternance",
+		"description": "A robust task management application designed for teams and individuals to organize, track, and collaborate on tasks efficiently. The frontend is built with Angular, providing a dynamic and responsive user interface. Users can create projects, assign tasks, set deadlines, and monitor progress through interactive dashboards. Real-time updates are enabled via WebSockets, ensuring that all team members stay informed of changes instantly. The backend is developed with Spring Boot, offering a secure REST API, user authentication, and role-based access control. Data is persisted in a PostgreSQL database, with advanced querying for analytics and reporting. The application supports file attachments, notifications, and calendar integration. Unit and integration tests are implemented using Jasmine and JUnit, ensuring code reliability. The project is containerized with Docker for easy deployment and scalability. CI/CD pipelines are configured with GitHub Actions, automating testing and deployment processes. The app is optimized for performance and accessibility, providing a seamless experience on both desktop and mobile devices. Comprehensive documentation and API references are included for developers and end-users.",
+		"image": "images/Learneo_calendar.png",
+		"links": {
+			"live": "https://tasks.chance-portfolio.com",
+			"github": "https://github.com/chancedarlon/task-manager"
+		},
+		"technologies": [
+			"Angular",
+			"Spring Boot",
+			"PostgreSQL",
+			"Docker",
+			"WebSockets",
+			"GitHub Actions"
+		],
+		"techImages": [
+			"techLogos/PHP.svg",
+			"techLogos/MySQL.svg",
+			"techLogos/HTML5.svg",
+			"techLogos/Sass.svg",
+			"techLogos/Visual Studio Code (VS Code).svg",
+			"techLogos/GitHub.svg"
+		],
+		"colors": "#cbafec"
+	},
+	
+
     {
-      "id": 4,
-      "title": "Learneo calendrier dynamique",
-      "category": "Applications",
-      "image": "images/project-3.jpg"
-    },
-    
-  
-    {
-      "id": 7,
-      "title": "Summary",
-      "category": "developpement web", 
-      "image": "images/project-7.png"
-    },
-    {
-      "id": 8,
-      "title": "Task Manager",
-      "category": "Applications",
-      "image": "images/project-8.jpg"
-    }
-   
-  ]
-  
+		"id": 5,
+		"title": "Learneo formation",
+		"category": "Alternance",
+		"description": "A robust task management application designed for teams and individuals to organize, track, and collaborate on tasks efficiently. The frontend is built with Angular, providing a dynamic and responsive user interface. Users can create projects, assign tasks, set deadlines, and monitor progress through interactive dashboards. Real-time updates are enabled via WebSockets, ensuring that all team members stay informed of changes instantly. The backend is developed with Spring Boot, offering a secure REST API, user authentication, and role-based access control. Data is persisted in a PostgreSQL database, with advanced querying for analytics and reporting. The application supports file attachments, notifications, and calendar integration. Unit and integration tests are implemented using Jasmine and JUnit, ensuring code reliability. The project is containerized with Docker for easy deployment and scalability. CI/CD pipelines are configured with GitHub Actions, automating testing and deployment processes. The app is optimized for performance and accessibility, providing a seamless experience on both desktop and mobile devices. Comprehensive documentation and API references are included for developers and end-users.",
+		"image": "images/Mastering_home.PNG",
+		"links": {
+			"live": "https://tasks.chance-portfolio.com",
+			"github": "https://github.com/chancedarlon/task-manager"
+		},
+		"technologies": [
+			"Angular",
+			"Spring Boot",
+			"PostgreSQL",
+			"Docker",
+			"WebSockets",
+			"GitHub Actions"
+		],
+		"techImages": [
+			
+			"techLogos/PHP.svg",
+			"techLogos/MySQL.svg",
+			"techLogos/HTML5.svg",
+			"techLogos/Sass.svg",
+			"techLogos/Visual Studio Code (VS Code).svg",
+			"techLogos/GitHub.svg"
+		],
+		"colors": "#a29a9a"
+	}
+]
