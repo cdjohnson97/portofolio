@@ -1,9 +1,9 @@
 [
-    {
+	{
 		"id": 1,
 		"title": "France Foot",
 		"category": "Ecole",
-		"description": " The project is Docker for easy deployment and scalability. CI/CD pipelines are configured with GitHub Actions, automating testing and deployment processes. The app is optimized for performance and accessibility, providing a seamless experience on both desktop and mobile devices. Comprehensive documentation and API references are included for developers and end-users.",
+		"description": "France Foot est une application web dédiée à la gestion et au suivi des compétitions de football en France. Elle permet aux utilisateurs de consulter les calendriers, résultats, classements et statistiques des équipes et joueurs. L'interface est moderne et responsive, offrant une expérience fluide sur tous les appareils. Le projet intègre des fonctionnalités avancées comme la gestion des notifications, l'inscription aux matchs, et l'accès à des analyses détaillées pour les passionnés de football.",
 		"image": "images/FFF.jpeg",
 		"links": {
 			"live": "https://tasks.chance-portfolio.com",
@@ -18,26 +18,21 @@
 			"GitHub Actions"
 		],
 		"techImages": [
-			
 			"techLogos/React.svg",
-            "techLogos/Vite.js.svg",
-            "techLogos/Tailwind CSS.svg",
-            "techLogos/Visual Studio Code (VS Code).svg",
-            "techLogos/GitHub.svg",
+			"techLogos/Vite.js.svg",
+			"techLogos/Tailwind CSS.svg",
+			"techLogos/Visual Studio Code (VS Code).svg",
+			"techLogos/GitHub.svg",
 			"techLogos/Node.js.svg",
 			"techLogos/Express.svg"
-
-			
 		],
-
 		"colors": "#625aab"
 	},
 	{
-
-        "id": 2,
-		"title":"Transtam logistic",
+		"id": 2,
+		"title": "Transtam logistic",
 		"category": "Stage",
-		"description": "A robust task management application designed for teams and individuals to organize, track, and collaborate on tasks efficiently. The frontend is built with Angular, providing a dynamic and responsive user interface. Users can create projects, assign tasks, set deadlines, and monitor progress through interactive dashboards. Real-time updates are enabled via WebSockets, ensuring that all team members stay informed of changes instantly. The backend is developed with Spring Boot, offering a secure REST API, user authentication, and role-based access control. Data is persisted in a PostgreSQL database, with advanced querying for analytics and reporting. The application supports file attachments, notifications, and calendar integration. Unit and integration tests are implemented using Jasmine and JUnit, ensuring code reliability. The project is containerized with Docker for easy deployment and scalability. CI/CD pipelines are configured with GitHub Actions, automating testing and deployment processes. The app is optimized for performance and accessibility, providing a seamless experience on both desktop and mobile devices. Comprehensive documentation and API references are included for developers and end-users.",
+		"description": "Transtam Logistic est une plateforme de gestion logistique permettant aux entreprises de suivre et d’optimiser le transport de marchandises. Les utilisateurs peuvent planifier les expéditions, suivre les colis en temps réel, gérer les stocks et générer des rapports d’activité. L’application propose une interface intuitive, des notifications automatiques et une intégration avec des outils de cartographie pour une meilleure visibilité sur les opérations logistiques.",
 		"image": "images/Transtam.jpeg",
 		"links": {
 			"live": "https://tasks.chance-portfolio.com",
@@ -69,7 +64,7 @@
 		"id": 3,
 		"title": "Mastering",
 		"category": "Ecole",
-		"description": "A robust task management application designed for teams and individuals to organize, track, and collaborate on tasks efficiently. The frontend is built with Angular, providing a dynamic and responsive user interface. Users can create projects, assign tasks, set deadlines, and monitor progress through interactive dashboards. Real-time updates are enabled via WebSockets, ensuring that all team members stay informed of changes instantly. The backend is developed with Spring Boot, offering a secure REST API, user authentication, and role-based access control. Data is persisted in a PostgreSQL database, with advanced querying for analytics and reporting. The application supports file attachments, notifications, and calendar integration. Unit and integration tests are implemented using Jasmine and JUnit, ensuring code reliability. The project is containerized with Docker for easy deployment and scalability. CI/CD pipelines are configured with GitHub Actions, automating testing and deployment processes. The app is optimized for performance and accessibility, providing a seamless experience on both desktop and mobile devices. Comprehensive documentation and API references are included for developers and end-users.",
+		"description": "Mastering est une plateforme éducative interactive conçue pour aider les étudiants à maîtriser différents sujets grâce à des cours, des quiz et des exercices pratiques. Les enseignants peuvent créer et gérer des contenus pédagogiques, suivre la progression des élèves et analyser leurs performances. L’interface conviviale favorise l’apprentissage autonome et collaboratif, tout en offrant des outils d’évaluation automatisés.",
 		"image": "images/Mastering.jpeg",
 		"links": {
 			"live": "#",
@@ -85,17 +80,15 @@
 		],
 		"techImages": [
 			"techLogos/Java.svg",
-            "techLogos/Spring.svg",
+			"techLogos/Spring.svg",
 			"techLogos/Angular.svg",
-            "techLogos/Sass.svg",
-            "techLogos/IntelliJ IDEA.svg",
-            "techLogos/GitHub.svg",
+			"techLogos/Sass.svg",
+			"techLogos/IntelliJ IDEA.svg",
+			"techLogos/GitHub.svg",
 			"techLogos/Docker.svg",
 			"techLogos/AWS.svg",
 			"techLogos/MySQL.svg",
 			"techLogos/Postman.svg"
-
-			
 		],
 		"colors": "#354963"
 	},
@@ -103,7 +96,7 @@
 		"id": 4,
 		"title": "Learneo Calendrier dynamique",
 		"category": "Alternance",
-		"description": "A robust task management application designed for teams and individuals to organize, track, and collaborate on tasks efficiently. The frontend is built with Angular, providing a dynamic and responsive user interface. Users can create projects, assign tasks, set deadlines, and monitor progress through interactive dashboards. Real-time updates are enabled via WebSockets, ensuring that all team members stay informed of changes instantly. The backend is developed with Spring Boot, offering a secure REST API, user authentication, and role-based access control. Data is persisted in a PostgreSQL database, with advanced querying for analytics and reporting. The application supports file attachments, notifications, and calendar integration. Unit and integration tests are implemented using Jasmine and JUnit, ensuring code reliability. The project is containerized with Docker for easy deployment and scalability. CI/CD pipelines are configured with GitHub Actions, automating testing and deployment processes. The app is optimized for performance and accessibility, providing a seamless experience on both desktop and mobile devices. Comprehensive documentation and API references are included for developers and end-users.",
+		"description": "Learneo Calendrier dynamique est un outil de gestion de planning permettant aux utilisateurs de créer, modifier et partager des calendriers personnalisés. Il facilite la planification d’événements, la gestion des disponibilités et l’envoi de rappels automatiques. L’application propose une interface claire et adaptable, idéale pour les équipes souhaitant organiser efficacement leurs activités et réunions.",
 		"image": "images/Learneo_calendar.png",
 		"links": {
 			"live": "https://tasks.chance-portfolio.com",
@@ -128,13 +121,11 @@
 		],
 		"colors": "#cbafec"
 	},
-	
-
-    {
+	{
 		"id": 5,
 		"title": "Learneo formation",
 		"category": "Alternance",
-		"description": "A robust task management application designed for teams and individuals to organize, track, and collaborate on tasks efficiently. The frontend is built with Angular, providing a dynamic and responsive user interface. Users can create projects, assign tasks, set deadlines, and monitor progress through interactive dashboards. Real-time updates are enabled via WebSockets, ensuring that all team members stay informed of changes instantly. The backend is developed with Spring Boot, offering a secure REST API, user authentication, and role-based access control. Data is persisted in a PostgreSQL database, with advanced querying for analytics and reporting. The application supports file attachments, notifications, and calendar integration. Unit and integration tests are implemented using Jasmine and JUnit, ensuring code reliability. The project is containerized with Docker for easy deployment and scalability. CI/CD pipelines are configured with GitHub Actions, automating testing and deployment processes. The app is optimized for performance and accessibility, providing a seamless experience on both desktop and mobile devices. Comprehensive documentation and API references are included for developers and end-users.",
+		"description": "Learneo Formation est une plateforme de gestion de formations destinée aux entreprises et organismes éducatifs. Elle permet de créer des parcours de formation, d’inscrire des participants, de suivre leur progression et d’évaluer leurs acquis. L’outil propose des modules interactifs, des quiz et des certificats de réussite, tout en facilitant la communication entre formateurs et apprenants.",
 		"image": "images/Mastering_home.PNG",
 		"links": {
 			"live": "https://francejo.netlify.app/connexion",
@@ -149,7 +140,6 @@
 			"GitHub Actions"
 		],
 		"techImages": [
-			
 			"techLogos/PHP.svg",
 			"techLogos/MySQL.svg",
 			"techLogos/HTML5.svg",
@@ -159,12 +149,11 @@
 		],
 		"colors": "#a29a9a"
 	},
-
 	{
 		"id": 6,
 		"title": "FFF Jeux olympique",
 		"category": "Ecole",
-		"description": "A robust task management application designed for teams and individuals to organize, track, and collaborate on tasks efficiently. The frontend is built with Angular, providing a dynamic and responsive user interface. Users can create projects, assign tasks, set deadlines, and monitor progress through interactive dashboards. Real-time updates are enabled via WebSockets, ensuring that all team members stay informed of changes instantly. The backend is developed with Spring Boot, offering a secure REST API, user authentication, and role-based access control. Data is persisted in a PostgreSQL database, with advanced querying for analytics and reporting. The application supports file attachments, notifications, and calendar integration. Unit and integration tests are implemented using Jasmine and JUnit, ensuring code reliability. The project is containerized with Docker for easy deployment and scalability. CI/CD pipelines are configured with GitHub Actions, automating testing and deployment processes. The app is optimized for performance and accessibility, providing a seamless experience on both desktop and mobile devices. Comprehensive documentation and API references are included for developers and end-users.",
+		"description": "FFF Jeux olympique est une application web dédiée à la gestion et au suivi des compétitions olympiques organisées par la Fédération Française de Football. Elle permet de consulter les programmes, résultats, classements et statistiques des différentes disciplines. L’interface est optimisée pour offrir une expérience utilisateur agréable, avec des mises à jour en temps réel et des fonctionnalités interactives pour les supporters et les participants.",
 		"image": "images/Jeux_olymp.jpeg",
 		"links": {
 			"live": "https://francejo.netlify.app/",
@@ -179,15 +168,15 @@
 			"GitHub Actions"
 		],
 		"techImages": [
-			
 			"techLogos/React.svg",
-            "techLogos/Vite.js.svg",
-            "techLogos/Tailwind CSS.svg",
-            "techLogos/Visual Studio Code (VS Code).svg",
-            "techLogos/GitHub.svg",
+			"techLogos/Vite.js.svg",
+			"techLogos/Tailwind CSS.svg",
+			"techLogos/Visual Studio Code (VS Code).svg",
+			"techLogos/GitHub.svg",
 			"techLogos/Node.js.svg",
 			"techLogos/Express.svg"
 		],
 		"colors": "#6b6ae7"
 	}
-]
+]	
+
