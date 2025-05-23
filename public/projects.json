@@ -3,7 +3,7 @@
 		"id": 1,
 		"title": "France Foot",
 		"category": "Ecole",
-		"description": "France Foot est une application web dédiée à la gestion et au suivi des compétitions de football en France. Elle permet aux utilisateurs de consulter les calendriers, résultats, classements et statistiques des équipes et joueurs. L'interface est moderne et responsive, offrant une expérience fluide sur tous les appareils. Le projet intègre des fonctionnalités avancées comme la gestion des notifications, l'inscription aux matchs, et l'accès à des analyses détaillées pour les passionnés de football.",
+		"description": "France Foot est une application clone  web dédiée à la gestion et au suivi des compétitions de football en France. Elle permet aux utilisateurs de consulter les calendriers, résultats, classements et statistiques des équipes et joueurs. L'interface est moderne et responsive, offrant une expérience fluide sur tous les appareils..",
 		"image": "images/FFF.jpeg",
 		"links": {
 			"live": "https://francejo.netlify.app/connexion",
@@ -32,7 +32,7 @@
 		"id": 2,
 		"title": "Transtam logistic",
 		"category": "Stage",
-		"description": "Transtam Logistic est une plateforme de gestion logistique permettant aux entreprises de suivre et d’optimiser le transport de marchandises. Les utilisateurs peuvent planifier les expéditions, suivre les colis en temps réel, gérer les stocks et générer des rapports d’activité. L’application propose une interface intuitive, des notifications automatiques et une intégration avec des outils de cartographie pour une meilleure visibilité sur les opérations logistiques.",
+		"description": "Transtam Logistic est une plateforme de gestion logistique permettant aux entreprises de suivre et d’optimiser le transport de marchandises. Les utilisateurs peuvent planifier les expéditions, suivre les colis en temps réel, gérer les stocks et générer des rapports d’activité. L’application propose une interface intuitive.",
 		"image": "images/Transtam.jpeg",
 		"links": {
 			"live": "https://tasks.chance-portfolio.com",
@@ -67,7 +67,7 @@
 		"description": "Mastering est une plateforme éducative interactive conçue pour aider les étudiants à maîtriser différents sujets grâce à des cours, des quiz et des exercices pratiques. Les enseignants peuvent créer et gérer des contenus pédagogiques, suivre la progression des élèves et analyser leurs performances. L’interface conviviale favorise l’apprentissage autonome et collaboratif, tout en offrant des outils d’évaluation automatisés.",
 		"image": "images/Mastering.jpeg",
 		"links": {
-			"live": "#",
+			"live": "",
 			"github": "https://github.com/fenMel/MasteringWeb"
 		},
 		"technologies": [
@@ -96,11 +96,11 @@
 		"id": 4,
 		"title": "Learneo Calendrier dynamique",
 		"category": "Alternance",
-		"description": "Learneo Calendrier dynamique est un outil de gestion de planning permettant aux utilisateurs de créer, modifier et partager des calendriers personnalisés. Il facilite la planification d’événements, la gestion des disponibilités et l’envoi de rappels automatiques. L’application propose une interface claire et adaptable, idéale pour les équipes souhaitant organiser efficacement leurs activités et réunions.",
+		"description": "Learneo Calendrier dynamique est un outil de gestion de planning de formation destiné aux entreprises et organismes éducatifs. Il facilite la planification d’événements,et la gestion des disponibilités . L'interface conviviale permet aux utilisateurs de visualiser et de modifier les dates et horaires de formation .",
 		"image": "images/Learneo_calendar.png",
 		"links": {
-			"live": "https://tasks.chance-portfolio.com",
-			"github": "https://github.com/chancedarlon/task-manager"
+			"live": "#",
+			"github": "#"
 		},
 		"technologies": [
 			"Angular",
@@ -153,7 +153,7 @@
 		"id": 6,
 		"title": "FFF Jeux olympique",
 		"category": "Ecole",
-		"description": "FFF Jeux olympique est une application web dédiée à la gestion et au suivi des compétitions olympiques organisées par la Fédération Française de Football. Elle permet de consulter les programmes, résultats, classements et statistiques des différentes disciplines. L’interface est optimisée pour offrir une expérience utilisateur agréable, avec des mises à jour en temps réel et des fonctionnalités interactives pour les supporters et les participants.",
+		"description": "FFF Jeux olympique est une application clone web dédiée à la gestion et au suivi des compétitions olympiques organisées par la Fédération Française de Football. Elle permet de consulter les programmes, résultats, classements et statistiques des différentes disciplines. L’interface est optimisée pour offrir une expérience utilisateur agréable, avec des mises à jour en temps réel et des fonctionnalités interactives pour les supporters et les participants.",
 		"image": "images/Jeux_olymp.jpeg",
 		"links": {
 			"live": "https://francejo.netlify.app/",
